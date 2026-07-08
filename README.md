@@ -109,9 +109,9 @@ Computer Science undergraduate specializing in Cloud Computing and Virtualizatio
 
 # 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=rpbArpitKhandelwal&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rpbArpitKhandelwal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rpbArpitKhandelwal&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=rpbArpitKhandelwal&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rpbArpitKhandelwal&layout=compact&theme=tokyonight)
 
