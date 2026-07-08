@@ -100,8 +100,6 @@ Computer Science undergraduate specializing in Cloud Computing and Virtualizatio
 
 # 🏆 Coding Profiles
 
-- GitHub: https://github.com/rpbArpitKhandelwal
-- LinkedIn: https://linkedin.com/in/ak1st
 - LeetCode: https://leetcode.com/u/ARPIT-KHANDELWAL-CODE/
 - Codeforces: https://codeforces.com/profile/PandaAK
 
