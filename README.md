@@ -454,7 +454,7 @@ Started as a club member, actively participating in workshops, technical events,
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
+<!-- ========================= GITHUB STATS =========================
 
 # 📊 GitHub Analytics
 
@@ -474,7 +474,7 @@ Started as a club member, actively participating in workshops, technical events,
 
 ---
 
-<!-- ========================= TROPHIES ========================= -->
+
 
 # 🏆 GitHub Trophies
 
@@ -485,6 +485,7 @@ Started as a club member, actively participating in workshops, technical events,
 </p>
 
 ---
+========================= TROPHIES ========================= -->
 
 <!-- ========================= ACTIVITY GRAPH ========================= -->
 
