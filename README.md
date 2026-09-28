@@ -144,18 +144,38 @@ I believe in continuously improving my engineering skills by building projects, 
 
 # 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,html,css,sql,bash" />
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven" />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" />
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes,terraform,linux,nginx" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,idea,pycharm" />
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-</p>
+# 🛠 Tech Stack
 
+<p align="center">
+
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,html,css,sql,bash" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven" />
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+
+<!-- Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" />
+
+<!-- CI/CD & Infrastructure -->
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,linux,nginx" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,idea,pycharm" />
+
+<!-- AI / ML -->
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+<!-- Operating Systems -->
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+
+</p>
 ---
 
 ## 📚 Currently Exploring
