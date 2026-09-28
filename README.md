@@ -118,11 +118,11 @@ A platform for deploying machine learning workloads on virtualized OpenStack inf
 <p align="center">
 
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ARPITKHANDELWAL-2392/40165DE2FCCFBC32?sharingId=C8145652D2D78F7B" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900 Azure Fundamentals"/>
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft AZ-900 Azure Fundamentals" width="150"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ARPITKHANDELWAL-2392/B23F1D618A7CDA06?sharingId=C8145652D2D78F7B" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft-AZ--204%20Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-204 Azure Developer Associate"/>
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft AZ-204 Azure Developer Associate" width="150"/>
   </a>
 
 </p>
