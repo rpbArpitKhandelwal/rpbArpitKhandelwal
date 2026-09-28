@@ -35,16 +35,11 @@ I enjoy building practical applications, designing scalable backend services, co
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,html,css,sql,bash" />
-  <br/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,html,css,bash" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,jenkins" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,vscode,postman,pycharm" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
@@ -121,8 +116,15 @@ A platform for deploying machine learning workloads on virtualized OpenStack inf
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft-AZ--204%20Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ARPITKHANDELWAL-2392/40165DE2FCCFBC32?sharingId=C8145652D2D78F7B" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900 Azure Fundamentals"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ARPITKHANDELWAL-2392/B23F1D618A7CDA06?sharingId=C8145652D2D78F7B" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft-AZ--204%20Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-204 Azure Developer Associate"/>
+  </a>
+
 </p>
 
 ---
@@ -130,15 +132,14 @@ A platform for deploying machine learning workloads on virtualized OpenStack inf
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rpbArpitKhandelwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="170" src="https://streak-stats.demolab.com?user=rpbArpitKhandelwal&theme=tokyonight&hide_border=true"/>
 </p>
 
+<!--
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rpbArpitKhandelwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpbArpitKhandelwal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ## 🧩 Coding Profiles
 
@@ -149,13 +150,13 @@ A platform for deploying machine learning workloads on virtualized OpenStack inf
 
 ---
 
-## 📈 Contribution Activity
+-->
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rpbArpitKhandelwal&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/rpbArpitKhandelwal/rpbArpitKhandelwal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
-
----
 
 ## 🎯 Current Focus
 
