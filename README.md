@@ -144,86 +144,15 @@ I believe in continuously improving my engineering skills by building projects, 
 
 # 🛠 Tech Stack
 
-## 👨‍💻 Programming Languages
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,html,css,sql,bash" />
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-</p>
-
----
-
-## ☁️ Cloud Technologies
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" />
-</p>
-
----
-
-## 🚀 DevOps & Automation
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes,terraform,linux,nginx" />
-</p>
-
----
-
-## 🔧 Tools & Platforms
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,idea,pycharm" />
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p align="center">
-
-| Technology | Experience |
-|------------|------------|
-| OpenAI API | ⭐⭐⭐⭐☆ |
-| TensorFlow | ⭐⭐⭐☆☆ |
-| PyTorch | ⭐⭐⭐☆☆ |
-| Scikit-Learn | ⭐⭐⭐⭐☆ |
-| Pandas | ⭐⭐⭐⭐☆ |
-| NumPy | ⭐⭐⭐⭐☆ |
-
-</p>
-
----
-
-## 💻 Operating Systems
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
 </p>
 
